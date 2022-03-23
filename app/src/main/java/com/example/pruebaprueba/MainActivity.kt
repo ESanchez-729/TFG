@@ -35,6 +35,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         Log.d("Patata", "Patata");
+        Log.d("jupiter", "jupiter")
 
     }
 
